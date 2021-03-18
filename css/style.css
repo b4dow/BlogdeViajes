@@ -12,7 +12,7 @@ html {
 }
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #eee;
+    background-color: #333;
 }
 header {
     padding: 20px 0;
@@ -93,6 +93,7 @@ article img {
 article p {
     line-height: 2;
     text-align: justify;
+    color: #fff;
 }
 .boton{
     background-color: #00b8e4;
